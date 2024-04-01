@@ -1,0 +1,10 @@
+// activitystruct_0118.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
+#include <iostream>
+using namespace std;
+
+struct detail {
+	string desa;
+	string kota;
+};
